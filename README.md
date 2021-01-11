@@ -1,3 +1,5 @@
+his package is out of maintenance. I changed the name to https://github.com/mnakao/ODP and am developing it.
+
 # Description
 * This software is to solve APSP (All Pairs Shortest Paths) problem for a noweight graph.
 * It outputs a diameter and ASPL (Average Shortest Path Length) of the graph.
